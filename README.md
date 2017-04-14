@@ -1,2 +1,2 @@
 # C-Primer-Plus
-answers of exercises
+answers to exercises
